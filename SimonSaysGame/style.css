@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+.upper {
+    display: flex;
+    justify-content: center;
+}
+
+.lower {
+    display: flex;
+    justify-content: center;
+}
+
+.boxes {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 10px;
+}
+
+.box-1 {
+    background-color: red;
+}
+
+.box-2 {
+    background-color: yellow;
+}
+
+.box-3 {
+    background-color: green;
+}
+
+.box-4 {
+    background-color: blue;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: gray;
+}
